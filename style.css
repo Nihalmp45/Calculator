@@ -1,0 +1,31 @@
+.mainbody{
+    background:linear-gradient(to right, #00AAFF, #00FF6C);;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.calcu{
+    height: 600px;
+    width: 500px;
+    margin-left: 450px;
+    background: #a3b59c;
+    border-radius: 50px;
+}
+
+#screen{
+    width: 400px;
+    margin-top: 50px;
+    background-color: #74758b;
+    height: 50px;
+    margin-left: 50px;
+    pointer-events: none;
+    font-size: x-large;
+}
+.btn{
+    width: 50px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
